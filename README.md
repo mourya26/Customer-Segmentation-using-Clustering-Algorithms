@@ -9,7 +9,7 @@ This project aims to segment customers based on their purchasing behavior and de
 - The dataset contains customer demographics, spending habits, and product purchase history.  
 - **Feature Selection & Engineering** was performed to enhance clustering performance.
 - Dataset link : https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering
-- 
+  
 ---
 
 🏆 Clustering Techniques Used  
