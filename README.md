@@ -64,5 +64,5 @@ This project aims to segment customers based on their purchasing behavior and de
 ## 📜 How to Run the Project  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/mourya26/customer-segmentation.git
+   git clone https://github.com/mourya26/Customer-Segmentation-using-Clustering-Algorithms.git
    cd customer-segmentation
