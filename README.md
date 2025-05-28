@@ -45,7 +45,7 @@ This project aims to segment customers based on their purchasing behavior and de
 ✔ **Hierarchical Clustering** achieved the highest **Silhouette Score** but lacks scalability.  
 ❌ **DBSCAN struggled** due to varying densities in the dataset.  
 
----🔧 Technologies Used  
+## 🔧 Technologies Used  
 - Python 🐍  
 - Pandas & NumPy 📊  
 - Matplotlib & Seaborn 📈  
